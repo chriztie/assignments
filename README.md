@@ -3,9 +3,9 @@
 ## Week 1
 #### Exercises
 
-- [Blocks](./01-week/exercises/blocks.md)
-- [Lists](./01-week/exercises/lists.md)
-- [Hyperlinks](./01-week/exercises/links.md)
+- [Blocks](./01-week/blocks.md)
+- [Lists](./01-week/lists.md)
+- [Hyperlinks](./01-week/links.md)
 
 #### Assignments
 
