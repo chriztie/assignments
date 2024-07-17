@@ -22,6 +22,7 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 1. [Structuring planet data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
 2. [Build a form](./02-week/forms.md)
 
+## HTML Final
 Build your portfolio
 You are free to add more sections and I want you to be creative but bare minimum your website should have the following sections
 1. About, Portfolio and Contact
