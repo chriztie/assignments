@@ -31,3 +31,9 @@ You are free to add more sections and I want you to be creative but bare minimum
 4. Contact should have contact details and how you prefer to be reached
 5. Be creative. Use all the elements we learned!
 
+## CSS
+
+#### Assignments
+
+1. [Style a biography](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge). _Fork [this template](https://codesandbox.io/s/css-assignment-1-gcvg9) and complete the assigment._
+
