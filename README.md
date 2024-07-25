@@ -36,4 +36,5 @@ You are free to add more sections and I want you to be creative but bare minimum
 #### Assignments
 
 1. [Style a biography](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge). _Fork [this template](https://codesandbox.io/s/css-assignment-1-gcvg9) and complete the assigment._
+2. [Typesetting a community school homepage](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage). _Fork [this template](https://codesandbox.io/s/css-assignment-2-x8si9) and complete the assignment._
 
